@@ -1,0 +1,10 @@
+{
+"name":"manu",
+"age":20,
+"skills":["java","python","nodejs"],
+"userInfo":{
+"name":"Charan",
+"age":22,
+"skills":["java","python","nodejs"]
+}
+}
